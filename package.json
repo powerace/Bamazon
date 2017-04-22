@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/powerace/Bamazon/issues"
   },
-  "homepage": "https://github.com/powerace/Bamazon#readme"
+  "homepage": "https://github.com/powerace/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
 }
